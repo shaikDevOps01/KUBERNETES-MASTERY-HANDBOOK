@@ -1,8 +1,7 @@
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║        KUBERNETES MASTERY HANDBOOK                              ║
-# ║        From Zero to CKA Certified Administrator                 ║
-# ╚══════════════════════════════════════════════════════════════════╝
-
+# 
+#            KUBERNETES MASTERY HANDBOOK              
+#       From Zero to CKA Certified Administrator                 
+# 
 ---
 
 > **"The journey of a thousand pods begins with a single kubectl command."**
