@@ -691,7 +691,7 @@ Contributions are welcome. Here is how to help:
 
 ```bash
 # Fork the repository on GitHub, then:
-git clone https://github.com/<your-username>/kubernetes-mastery-handbook.git
+git clone https://github.com/shaikDevOps01/KUBERNETES-MASTERY-HANDBOOK
 cd kubernetes-mastery-handbook
 git checkout -b improve/chapter-3-networking-examples
 
@@ -720,10 +720,10 @@ DevOps Engineer · NEXTIQZ Technologies · Bengaluru, India 🇮🇳
 
 Building production Kubernetes infrastructure and documenting every hard-won lesson along the way.
 
-- 🌐 [NEXTIQZ Technologies](https://nextiqz.com)
-- 💼 [LinkedIn](https://linkedin.com/in/shaik-dasthagiri)
-- 🐙 [GitHub](https://github.com/NEXTIQZ)
-- ✈️ [FareFlyers](https://fareflyers.com) — Travel Payment Intelligence Platform
+- 🌐 my-portfolio-72r2xlgpm-shaik-dasthagiri-s-projects.vercel.app
+- 💼 https://www.linkedin.com/in/shaikdasthagiri/
+- 🐙 https://github.com/shaikDevOps01
+- ✈️ FareFlyers](https://fareflyers.com) — Travel Payment Intelligence Platform
 
 ---
 
@@ -765,7 +765,7 @@ You are free to:
 <div align="center">
 
 **Built with ❤️ for the Kubernetes community**
-**by NEXTIQZ Technologies, Bengaluru, India**
+**by Shaik Dasthagiri, Bengaluru, India**
 
 *If this handbook helped you pass your CKA — star the repo and share it with the next engineer who needs it.*
 
