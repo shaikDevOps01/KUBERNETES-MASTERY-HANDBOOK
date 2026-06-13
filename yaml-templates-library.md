@@ -1,6 +1,5 @@
 # KUBERNETES MASTERY HANDBOOK
 # Supplementary: YAML Templates Library
-# NEXTIQZ Technologies — github.com/NEXTIQZ/kubernetes-mastery-handbook
 
 ---
 
@@ -959,4 +958,4 @@ spec:
 ---
 
 *This templates library is part of the Kubernetes Mastery Handbook*
-*Published by NEXTIQZ Technologies — github.com/NEXTIQZ/kubernetes-mastery-handbook*
+*Published by Shaik Dasthagiri-DevOps Engineer - kubernetes-mastery-handbook*
