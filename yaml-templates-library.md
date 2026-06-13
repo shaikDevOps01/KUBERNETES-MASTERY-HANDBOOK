@@ -2,10 +2,6 @@
 # Supplementary: YAML Templates Library
 
 ---
-
-> **Copy. Paste. Modify. Apply. These are production-tested templates.**
-> Replace ALL values in `<angle-brackets>` with your own values.
-
 ---
 
 ## 01 — Pod (Minimal)
