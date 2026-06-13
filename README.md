@@ -716,11 +716,11 @@ git push origin improve/chapter-3-networking-examples
 ## 👨‍💻 Author
 
 **Shaik Dasthagiri**
-DevOps Engineer · NEXTIQZ Technologies · Bengaluru, India 🇮🇳
+DevOps Engineer · · Bengaluru, India 🇮🇳
 
 Building production Kubernetes infrastructure and documenting every hard-won lesson along the way.
 
-- 🌐 my-portfolio-72r2xlgpm-shaik-dasthagiri-s-projects.vercel.app
+- 🌐 https://my-portfolio-two-omega-36.vercel.app/
 - 💼 https://www.linkedin.com/in/shaikdasthagiri/
 - 🐙 https://github.com/shaikDevOps01
 - ✈️ FareFlyers](https://fareflyers.com) — Travel Payment Intelligence Platform
