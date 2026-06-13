@@ -827,4 +827,4 @@ kubectl delete -k <directory>           # Delete kustomized resources
 ---
 
 *This reference card is part of the Kubernetes Mastery Handbook*
-*Published by NEXTIQZ Technologies — github.com/NEXTIQZ/kubernetes-mastery-handbook*
+*Published by Shaik Dasthagiri — DevOps Engineer*Bengaluru.india
