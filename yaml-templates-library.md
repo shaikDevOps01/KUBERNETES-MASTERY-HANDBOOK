@@ -1,7 +1,10 @@
 # KUBERNETES MASTERY HANDBOOK
 # Supplementary: YAML Templates Library
-
 ---
+
+> **Copy. Paste. Modify. Apply. These are production-tested templates.**
+> Replace ALL values in `<angle-brackets>` with your own values.
+
 ---
 
 ## 01 — Pod (Minimal)
@@ -954,4 +957,4 @@ spec:
 ---
 
 *This templates library is part of the Kubernetes Mastery Handbook*
-*Published by Shaik Dasthagiri-DevOps Engineer - kubernetes-mastery-handbook*
+*Published by Shaik Dasthagiri - DevOps Engineer .Bengaluru .india*

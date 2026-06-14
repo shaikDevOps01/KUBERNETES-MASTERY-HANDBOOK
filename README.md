@@ -21,7 +21,7 @@
 [![Chapters](https://img.shields.io/badge/Chapters-12%20Complete-brightgreen)](./chapters/)
 [![Lines](https://img.shields.io/badge/Lines%20of%20Content-18%2C000%2B-orange)](./chapters/)
 [![Size](https://img.shields.io/badge/Total%20Size-848KB-blue)](./chapters/)
-[![Stars](https://img.shields.io/github/stars/NEXTIQZ/kubernetes-mastery-handbook?style=social)](https://github.com/NEXTIQZ/kubernetes-mastery-handbook)
+[![Star this repo](https://img.shields.io/github/stars/shaikDevOps01/KUBERNETES-MASTERY-HANDBOOK?style=for-the-badge&logo=github&label=Star%20this%20Handbook)](https://github.com/shaikDevOps01/KUBERNETES-MASTERY-HANDBOOK)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 <br/>
@@ -716,14 +716,14 @@ git push origin improve/chapter-3-networking-examples
 ## 👨‍💻 Author
 
 **Shaik Dasthagiri**
-DevOps Engineer · · Bengaluru, India 🇮🇳
+DevOps Engineer · Bengaluru, India 🇮🇳
 
 Building production Kubernetes infrastructure and documenting every hard-won lesson along the way.
 
-- 🌐 https://my-portfolio-two-omega-36.vercel.app/
-- 💼 https://www.linkedin.com/in/shaikdasthagiri/
-- 🐙 https://github.com/shaikDevOps01
-- ✈️ FareFlyers](https://fareflyers.com) — Travel Payment Intelligence Platform
+- 🌐 
+- 💼 [LinkedIn] https://www.linkedin.com/in/shaikdasthagiri/
+- 🐙 [GitHub] https://github.com/shaikDevOps01?tab=repositories
+- ✈️ [FareFlyers] https://fareflyers.com  — Travel Payment Intelligence Platform
 
 ---
 
@@ -771,7 +771,7 @@ You are free to:
 
 <br/>
 
-[![Star this repo](https://img.shields.io/github/stars/NEXTIQZ/kubernetes-mastery-handbook?style=for-the-badge&logo=github&label=Star%20this%20Handbook)](https://github.com/NEXTIQZ/kubernetes-mastery-handbook)
+[![Star this repo](https://img.shields.io/github/stars/shaikDevOps01/KUBERNETES-MASTERY-HANDBOOK?style=for-the-badge&logo=github&label=Star%20this%20Handbook)](https://github.com/shaikDevOps01/KUBERNETES-MASTERY-HANDBOOK)
+
 
 </div>
-# KUBERNETES-MASTERY-HANDBOOK
